@@ -1,2 +1,12 @@
 # barsoom
-barsoomChess
+barsoomChess, for OOAD assignment
+
+TEAM: CHILL
+
+MEMBER:
+ARIF
+HAMIZAN
+SHUKRI
+SYAWAL
+HAZIQ
+
