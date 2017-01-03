@@ -12,12 +12,10 @@ package chess;
  */
 public class Game {
     private int turn;
-    
     private Player p1;
     private Player p2; 
     private Player current;
     private Player winner;
-    
     private Board board;
     
     public Game(String p1name, String p2name){
