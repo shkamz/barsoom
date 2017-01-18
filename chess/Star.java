@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chess;
 
 import java.util.ArrayList;
 
@@ -41,9 +40,9 @@ public class Star extends Piece {
     @Override
     public String getFilename(){
         if (isWhite()){
-            return "/assets/whiteStar.png";
+            return "whiteStar.png";
         } else {
-            return "/assets/blackStar.png";
+            return "blackStar.png";
         }
     }
     

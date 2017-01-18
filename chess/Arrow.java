@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chess;
 
 import java.util.ArrayList;
 
@@ -55,9 +54,9 @@ public class Arrow extends Piece {
     @Override
     public String getFilename(){
         if (isWhite()){
-            return "/assets/whiteArrow.png";
+            return "whiteArrow.png";
         } else {
-            return "/assets/blackArrow.png";
+            return "blackArrow.png";
         }
     }
     
