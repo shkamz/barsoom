@@ -28,11 +28,11 @@ HAZIQ
 
 Benda kita kena buat:
 
-- GUI, aku dah prepare class GuiManager khas untuk benda2 GUI.
+- tbh, aku pun taktau.
 
 Isu:
 
-- Source code ni semua aku tak test lagi (tak boleh test), boleh test lepas siap GUI.
+- Cross punya buah; kita kena baiki cara dia tentukan ke petak mana dia boleh pergi
 
 Nota:
 
