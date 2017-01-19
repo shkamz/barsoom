@@ -53,6 +53,8 @@ public class ChessGUI extends JFrame implements ActionListener{
         setContentPane(buttonPanel);        
         pack();
         setVisible(true);
+        //aku tmbh bende ni. bile click X, dia trus end program.
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
     
     public JPanel createButtonsOnBoard(){
